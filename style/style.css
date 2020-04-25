@@ -60,6 +60,7 @@
   height: 7px;
   background-color: #1abc9c;
   margin: 25px auto 0px auto;
+  border: none;
 }
 /* GALERY--------------- */
 .galery-item {
@@ -208,6 +209,7 @@
   margin-top: 12px;
   border: 0px;
   cursor: pointer;
+  margin-bottom: 45px;
 }
 .blog {
   margin-bottom: 80px;
